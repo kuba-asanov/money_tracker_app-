@@ -1,0 +1,1 @@
+ /Users/k.asanov/Documents/GitHub/money_traffic_app/.dart_tool/flutter_build/1ff3bd12b4a5af708a648ed3d452cd7b/native_assets.yaml: 
