@@ -24,3 +24,11 @@ sh scripts/lang.sh
 ```
 flutter pub run build_runner build --delete-conflicting-outputs 
 ```
+
+## Screenshots: 
+![1](assets/images/screenshot1.png)
+![1](assets/images/screenshot2.png)
+![1](assets/images/screenshot3.png)
+![1](assets/images/screenshot4.png)
+![1](assets/images/screenshot5.png)
+![1](assets/images/screenshot6.png)
